@@ -1,7 +1,9 @@
-#imprime 3 cosas nuevas
+def saludar():
+    print("hola")
 
-print("Este es un nuevo repo")
-
-print("este es un repor dañado")
-
-print("añado mas prints")
+print("saludo 10 veces: ")
+saludar()
+saludar()
+saludar()
+saludar()
+saludar()
