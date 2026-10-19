@@ -1,4 +1,5 @@
 print("aqui se desarrolara UNA NUEVA FUNCION ")
+print("vamos perros")
 
 anios = int(input("cual es su edad?: "))
 
