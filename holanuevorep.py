@@ -1,9 +1,6 @@
 def saludar():
     print("hola")
 
-print("saludo 10 veces: ")
+print("saludo 1 veces: ")
 saludar()
-saludar()
-saludar()
-saludar()
-saludar()
+
