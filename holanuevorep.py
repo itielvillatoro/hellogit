@@ -1,5 +1,5 @@
 def saludar():
-    print("hola")
+    print("hola GITHUB")
 
 print("saludo 10 veces: ")
 saludar()
